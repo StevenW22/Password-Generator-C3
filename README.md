@@ -9,4 +9,12 @@
 
 ## Usage
 
+-Generating passowrds for the user.
+
+## Mock-up
+
 ![Challenge 3](https://user-images.githubusercontent.com/112358173/193721035-6c1e19c4-bbca-4db1-bdc5-565514ff5ee2.png)
+
+https://stevenw22.github.io/Password-Generator-C3/
+
+https://github.com/StevenW22/Password-Generator-C3
